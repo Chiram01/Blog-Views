@@ -7,6 +7,8 @@ Create a .env file to store your credentials. Example below:
 MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/blog
 JWT_SECRET=MySecretBlog
 ```
+MONGODB_URI=mongodb+srv://chirasmitacd21:Chiras2003@cluster0.vf33i1y.mongodb.net/?retryWrites=true&w=majority
+{my MongoDb URL}
 
 ## Installation
 To install and run this project - install dependencies using npm and then start your server:
